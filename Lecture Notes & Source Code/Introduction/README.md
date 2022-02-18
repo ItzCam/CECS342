@@ -4,9 +4,9 @@
  
 * Programing paradigms
   - Imperative
-    1)Procedural
-    2)Object Oriented
+    1.)Procedural
+    2.)Object Oriented
  
   - Declarative
-    1)Functional
-    2)Logical
+    1.)Functional
+    2.)Logical
