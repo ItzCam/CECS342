@@ -1,2 +1,2 @@
 # CECS342
-Principle Programming Language
+Spring 2022 - Principle Programming Language
